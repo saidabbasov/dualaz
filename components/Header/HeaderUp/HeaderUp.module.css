@@ -1,0 +1,32 @@
+.headerUp {
+    display: flex;
+    margin-top:40px;
+    margin-left: 40px
+}
+
+.headerUp a {
+    margin-left: 34px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+.headerUp a:hover {
+    color: #EE8282;
+}
+
+.wpTitle {
+    border: 0.5px solid #09D27E;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    padding: 7px 13px;
+    margin-left: 660px;
+    margin-bottom: 10px;
+}
+.wp {
+    color: #09D27E;
+}

@@ -1,0 +1,40 @@
+.header {
+    margin-left: 65px;
+    margin-top: 26px;
+    display: flex;
+}
+
+.hr {
+    width: 1200px;
+    height: 0px;
+    left: 120px;
+    top: 78px;
+
+    border: 0.5px solid #FFB96A;
+}
+
+.logo {
+}
+
+.katalog{
+
+}
+
+.inp input {
+    margin-left: 70px;
+    background: rgba(255, 185, 106, 0.05);
+    border: 0.5px solid #FFB96A;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.05);
+    border-radius: 11px;
+    padding: 21px 520px 21px 20px;
+}
+
+.headerBar {
+    display: flex;
+    margin-top:10px;
+}
+
+.headerBar img {
+    margin-left: 30px;
+    
+}

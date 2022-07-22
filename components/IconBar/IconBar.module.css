@@ -1,0 +1,12 @@
+.iconBar { 
+    display: flex;
+    margin-left: 230px;
+}
+
+.iconBarContent { 
+    display: flex
+}
+
+.iconBarContent p {
+    width:150px;
+}
